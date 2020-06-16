@@ -1,0 +1,16 @@
+.error textarea {
+    border: 3px solid red;
+}
+.error span{
+    color: rgba(255, 0, 0, 0.75);
+font-family: Bebas Neue;
+}
+.formControl textarea{
+        width: 800px;
+        height: 100px;
+        resize: none;
+        font-family: cursive;
+}
+.errorDescription{
+    min-height: 24px;
+}

@@ -1,0 +1,86 @@
+.container {
+    display: flex;
+    padding-left: 15px;
+    padding-top: 20px;
+    position: relative;
+}
+
+.img {
+    width: 92px;
+    height: 92px;
+    background: #00474F;
+    border-radius: 18px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #13C2C2;
+    z-index: 3;
+}
+
+.description {
+    margin-left: 16px;
+    text-align: left;
+}
+
+.present h3{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    margin: 14px 0 0 0;
+}
+.present p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+    opacity: 0.6;
+}
+.future h3{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #13C2C2;
+    margin: 13px 0 0 0;
+}
+.future p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    opacity: 0.6;
+    margin: 0 0 35px 0;
+
+}
+.surikena{
+    height: 16px;
+    position: absolute;
+    right: 60px;
+}
+.tochka{
+    position: absolute;
+    height: 11px;
+    top: 9px;
+}
+.zagagulina{
+    position: absolute;
+    width: 123px;
+    height: 110px;
+    left: 15px;
+}
+.krest{
+    position: absolute;
+    top: 160px;
+    left: 21px;
+}
+.kvadrat{
+    position: absolute;
+    top: 132px;
+    left: 65px;
+}

@@ -6,8 +6,28 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+@font-face {
+  font-family: "Bebas Neue";
+  src: url("assets/Fonts/BebasNeue Regular.ttf");
+}
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.App{
+  background-color: #282c34;
+  font-family: Roboto;
+  color: #ffffff;
+  height: 931px;
+  width: 320px;
+  margin: 0 auto;
+}
+.Wrapper{
+  background-color: #282c34;
+
+}
+.Header{
+  font-family: Bebas Neue;
+  background: rgba(0, 109, 117, 0.2);
+  text-align: left;
+  padding-top: 24px;
+  padding-left: 26px;
+  padding-bottom: 16px;
 }
