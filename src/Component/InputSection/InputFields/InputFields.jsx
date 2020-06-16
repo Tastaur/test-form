@@ -57,7 +57,7 @@ const Form = (props) => {
         {/*Repeat Input*/}
         <div className={s.inputContainer}>
           <label htmlFor='' className={s.label}>Repeat New Password</label>
-          <Field className={s.input} component={Input} autoComplete='off' type='password' validate={required}  name={'repeatPassword'} placeholder={`Repeat New Password`}/>
+          <Field className={s.input} component={Input} autoComplete='off' type='password' validate={[required, strongPassword]}  name={'repeatPassword'} placeholder={`Repeat New Password`}/>
         </div>
 
 
