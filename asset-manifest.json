@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-form/static/css/main.9ac56d77.chunk.css",
+    "main.js": "/test-form/static/js/main.65b7e478.chunk.js",
+    "main.js.map": "/test-form/static/js/main.65b7e478.chunk.js.map",
+    "runtime-main.js": "/test-form/static/js/runtime-main.28712ef2.js",
+    "runtime-main.js.map": "/test-form/static/js/runtime-main.28712ef2.js.map",
+    "static/js/2.c63ee2a8.chunk.js": "/test-form/static/js/2.c63ee2a8.chunk.js",
+    "static/js/2.c63ee2a8.chunk.js.map": "/test-form/static/js/2.c63ee2a8.chunk.js.map",
+    "index.html": "/test-form/index.html",
+    "precache-manifest.ae607b3852a642ed2090c51f0fbe1e1c.js": "/test-form/precache-manifest.ae607b3852a642ed2090c51f0fbe1e1c.js",
+    "service-worker.js": "/test-form/service-worker.js",
+    "static/css/main.9ac56d77.chunk.css.map": "/test-form/static/css/main.9ac56d77.chunk.css.map",
+    "static/js/2.c63ee2a8.chunk.js.LICENSE.txt": "/test-form/static/js/2.c63ee2a8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/test-form/static/media/BebasNeue Regular.f25fd404.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28712ef2.js",
+    "static/js/2.c63ee2a8.chunk.js",
+    "static/css/main.9ac56d77.chunk.css",
+    "static/js/main.65b7e478.chunk.js"
+  ]
+}
